@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a fourth year computer engineering student at the University of Ottawa. 
+
+- I'm interested in embedded programming, SLAM, and Machine Learning
+- I'm currently working on a Drone with custom embedded-rust written flight controller
+  - Check out my progress at https://github.com/KG-Drone-Project
+- I'm currently learning about embedded programming & RTOS
+- Reach me @ kavin.balag@gmail.com
+
 <!--
 **KavinTheG/KavinTheG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
