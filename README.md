@@ -2,7 +2,7 @@
 
 I am a fourth year computer engineering student at the University of Ottawa. 
 
-- I'm interested in embedded programming, SLAM, and Machine Learning
+- I'm interested in low-level programming
 - I'm currently working on a Drone based on an stm32 and written with Rust!  
   - Check out my progress at https://github.com/KG-Drone-Project
 - I'm currently learning about embedded programming, RTOS, and SLAM
