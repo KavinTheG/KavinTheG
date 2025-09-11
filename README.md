@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fourth year computer engineering student at the University of Ottawa. 
+I am a computer graduate from the University of Ottawa. 
 
 - I'm interested in low-level programming
 - I'm currently working on a
