@@ -3,11 +3,6 @@
 I am a computer graduate from the University of Ottawa. 
 
 - I'm interested in low-level programming
-- I'm currently working on a
-  - NES emulator written with C @ https://github.com/KavinTheG/NES
-  - Drone based on an stm32 and written with Rust!  
-    - Check out my progress at https://github.com/KG-Drone-Project
-- I'm currently learning about embedded programming & osdev
 - Reach me @ kavin.balag@gmail.com
 
 <!--
