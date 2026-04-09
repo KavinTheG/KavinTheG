@@ -3,7 +3,7 @@
 I am a computer engineering graduate from the University of Ottawa. 
 
 - I'm broadly interested in low-level programming
-- Actively contributing to LLVM & learn about compilers
+- Actively contributing to LLVM & learning about compilers
 - Reach me @ kavin.balag@gmail.com
 
 <!--
