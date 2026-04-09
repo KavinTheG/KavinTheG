@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am a computer graduate from the University of Ottawa. 
+I am a computer engineering graduate from the University of Ottawa. 
 
-- I'm interested in low-level programming
+- I'm broadly interested in low-level programming
+- Actively contributing to LLVM & learn about compilers
 - Reach me @ kavin.balag@gmail.com
 
 <!--
